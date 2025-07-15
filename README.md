@@ -7,6 +7,9 @@
 [![Vue](https://img.shields.io/badge/Vue-3-4FC08D)](https://vuejs.org/)
 [![REST](https://img.shields.io/badge/API-REST%20ful-FF6B6B)](https://www.django-rest-framework.org/)
 
+![1.png](pic%2F1.png)
+![2.png](pic%2F2.png)
+
 ## 🌟 核心特性
 - **前后端解耦**：Django 提供 RESTful API，Vue 独立渲染前端
 - **画廊功能**：图片展示、详情查看、响应式布局
